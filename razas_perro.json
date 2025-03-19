@@ -1,0 +1,138 @@
+[
+  {
+    "nombre": "Shiba Inu",
+    "tamaño": "Pequeño",
+    "altura": "33-43 cm",
+    "peso_adulto": "6-11 kg",
+    "esperanza_vida": "12-15 años",
+    "nivel_actividad": "Alto"
+  },
+  {
+    "nombre": "Corgi Galés",
+    "tamaño": "Pequeño",
+    "altura": "25-30 cm",
+    "peso_adulto": "10-14 kg",
+    "esperanza_vida": "12-15 años",
+    "nivel_actividad": "Alto"
+  },
+  {
+    "nombre": "Bulldog Francés",
+    "tamaño": "Pequeño",
+    "altura": "27-35 cm",
+    "peso_adulto": "8-14 kg",
+    "esperanza_vida": "10-14 años",
+    "nivel_actividad": "Medio"
+  },
+  {
+    "nombre": "Chihuahua",
+    "tamaño": "Pequeño",
+    "altura": "15-23 cm",
+    "peso_adulto": "1-3 kg",
+    "esperanza_vida": "12-20 años",
+    "nivel_actividad": "Medio"
+  },
+  {
+    "nombre": "Pomerania",
+    "tamaño": "Pequeño",
+    "altura": "18-30 cm",
+    "peso_adulto": "1-3 kg",
+    "esperanza_vida": "12-16 años",
+    "nivel_actividad": "Medio"
+  },
+  {
+    "nombre": "Beagle",
+    "tamaño": "Mediano",
+    "altura": "33-41 cm",
+    "peso_adulto": "9-14 kg",
+    "esperanza_vida": "12-15 años",
+    "nivel_actividad": "Alto"
+  },
+  {
+    "nombre": "Husky Siberiano",
+    "tamaño": "Mediano",
+    "altura": "50-60 cm",
+    "peso_adulto": "16-27 kg",
+    "esperanza_vida": "12-15 años",
+    "nivel_actividad": "Muy Alto"
+  },
+  {
+    "nombre": "Border Collie",
+    "tamaño": "Mediano",
+    "altura": "46-56 cm",
+    "peso_adulto": "12-20 kg",
+    "esperanza_vida": "12-15 años",
+    "nivel_actividad": "Muy Alto"
+  },
+  {
+    "nombre": "Labrador Retriever",
+    "tamaño": "Grande",
+    "altura": "55-62 cm",
+    "peso_adulto": "25-36 kg",
+    "esperanza_vida": "10-12 años",
+    "nivel_actividad": "Alto"
+  },
+  {
+    "nombre": "Golden Retriever",
+    "tamaño": "Grande",
+    "altura": "51-61 cm",
+    "peso_adulto": "25-34 kg",
+    "esperanza_vida": "10-12 años",
+    "nivel_actividad": "Alto"
+  },
+  {
+    "nombre": "Rottweiler",
+    "tamaño": "Grande",
+    "altura": "56-69 cm",
+    "peso_adulto": "35-60 kg",
+    "esperanza_vida": "8-10 años",
+    "nivel_actividad": "Alto"
+  },
+  {
+    "nombre": "Mastín Napolitano",
+    "tamaño": "Grande",
+    "altura": "60-75 cm",
+    "peso_adulto": "50-70 kg",
+    "esperanza_vida": "8-10 años",
+    "nivel_actividad": "Medio"
+  },
+  {
+    "nombre": "Akita Inu",
+    "tamaño": "Grande",
+    "altura": "58-70 cm",
+    "peso_adulto": "32-59 kg",
+    "esperanza_vida": "10-15 años",
+    "nivel_actividad": "Medio"
+  },
+  {
+    "nombre": "Pastor Alemán",
+    "tamaño": "Grande",
+    "altura": "55-65 cm",
+    "peso_adulto": "22-40 kg",
+    "esperanza_vida": "9-13 años",
+    "nivel_actividad": "Muy Alto"
+  },
+  {
+    "nombre": "Dálmata",
+    "tamaño": "Grande",
+    "altura": "54-62 cm",
+    "peso_adulto": "16-32 kg",
+    "esperanza_vida": "11-13 años",
+    "nivel_actividad": "Muy Alto"
+  },
+  {
+    "nombre": "Doberman",
+    "tamaño": "Grande",
+    "altura": "61-72 cm",
+    "peso_adulto": "30-45 kg",
+    "esperanza_vida": "10-13 años",
+    "nivel_actividad": "Muy Alto"
+  },
+  {
+    "nombre": "San Bernardo",
+    "tamaño": "Gigante",
+    "altura": "65-90 cm",
+    "peso_adulto": "50-90 kg",
+    "esperanza_vida": "8-10 años",
+    "nivel_actividad": "Medio"
+  }
+]
