@@ -1,7 +1,7 @@
 [
   {
     "nombre": "Shiba Inu",
-    "tamaño": "Pequeño",
+    "tamano": "Pequeño",
     "altura": "33-43 cm",
     "peso_adulto": "6-11 kg",
     "esperanza_vida": "12-15 años",
@@ -9,7 +9,7 @@
   },
   {
     "nombre": "Corgi Galés",
-    "tamaño": "Pequeño",
+    "tamano": "Pequeño",
     "altura": "25-30 cm",
     "peso_adulto": "10-14 kg",
     "esperanza_vida": "12-15 años",
@@ -17,7 +17,7 @@
   },
   {
     "nombre": "Bulldog Francés",
-    "tamaño": "Pequeño",
+    "tamano": "Pequeño",
     "altura": "27-35 cm",
     "peso_adulto": "8-14 kg",
     "esperanza_vida": "10-14 años",
@@ -25,7 +25,7 @@
   },
   {
     "nombre": "Chihuahua",
-    "tamaño": "Pequeño",
+    "tamano": "Pequeño",
     "altura": "15-23 cm",
     "peso_adulto": "1-3 kg",
     "esperanza_vida": "12-20 años",
@@ -33,7 +33,7 @@
   },
   {
     "nombre": "Pomerania",
-    "tamaño": "Pequeño",
+    "tamano": "Pequeño",
     "altura": "18-30 cm",
     "peso_adulto": "1-3 kg",
     "esperanza_vida": "12-16 años",
@@ -41,7 +41,7 @@
   },
   {
     "nombre": "Beagle",
-    "tamaño": "Mediano",
+    "tamano": "Mediano",
     "altura": "33-41 cm",
     "peso_adulto": "9-14 kg",
     "esperanza_vida": "12-15 años",
@@ -49,7 +49,7 @@
   },
   {
     "nombre": "Husky Siberiano",
-    "tamaño": "Mediano",
+    "tamano": "Mediano",
     "altura": "50-60 cm",
     "peso_adulto": "16-27 kg",
     "esperanza_vida": "12-15 años",
@@ -57,7 +57,7 @@
   },
   {
     "nombre": "Border Collie",
-    "tamaño": "Mediano",
+    "tamano": "Mediano",
     "altura": "46-56 cm",
     "peso_adulto": "12-20 kg",
     "esperanza_vida": "12-15 años",
@@ -65,7 +65,7 @@
   },
   {
     "nombre": "Labrador Retriever",
-    "tamaño": "Grande",
+    "tamano": "Grande",
     "altura": "55-62 cm",
     "peso_adulto": "25-36 kg",
     "esperanza_vida": "10-12 años",
@@ -73,7 +73,7 @@
   },
   {
     "nombre": "Golden Retriever",
-    "tamaño": "Grande",
+    "tamano": "Grande",
     "altura": "51-61 cm",
     "peso_adulto": "25-34 kg",
     "esperanza_vida": "10-12 años",
@@ -81,7 +81,7 @@
   },
   {
     "nombre": "Rottweiler",
-    "tamaño": "Grande",
+    "tamano": "Grande",
     "altura": "56-69 cm",
     "peso_adulto": "35-60 kg",
     "esperanza_vida": "8-10 años",
@@ -89,7 +89,7 @@
   },
   {
     "nombre": "Mastín Napolitano",
-    "tamaño": "Grande",
+    "tamano": "Grande",
     "altura": "60-75 cm",
     "peso_adulto": "50-70 kg",
     "esperanza_vida": "8-10 años",
@@ -97,7 +97,7 @@
   },
   {
     "nombre": "Akita Inu",
-    "tamaño": "Grande",
+    "tamano": "Grande",
     "altura": "58-70 cm",
     "peso_adulto": "32-59 kg",
     "esperanza_vida": "10-15 años",
@@ -105,7 +105,7 @@
   },
   {
     "nombre": "Pastor Alemán",
-    "tamaño": "Grande",
+    "tamano": "Grande",
     "altura": "55-65 cm",
     "peso_adulto": "22-40 kg",
     "esperanza_vida": "9-13 años",
@@ -113,7 +113,7 @@
   },
   {
     "nombre": "Dálmata",
-    "tamaño": "Grande",
+    "tamano": "Grande",
     "altura": "54-62 cm",
     "peso_adulto": "16-32 kg",
     "esperanza_vida": "11-13 años",
@@ -121,7 +121,7 @@
   },
   {
     "nombre": "Doberman",
-    "tamaño": "Grande",
+    "tamano": "Grande",
     "altura": "61-72 cm",
     "peso_adulto": "30-45 kg",
     "esperanza_vida": "10-13 años",
@@ -129,7 +129,7 @@
   },
   {
     "nombre": "San Bernardo",
-    "tamaño": "Gigante",
+    "tamano": "Gigante",
     "altura": "65-90 cm",
     "peso_adulto": "50-90 kg",
     "esperanza_vida": "8-10 años",
